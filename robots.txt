@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ensawary.github.io/sitemap
+Sitemap: https://ensawary.github.io/app/sitemap
+Sitemap: https://ensawary.github.io/assets/sitemap
+Sitemap: https://ensawary.github.io/css/sitemap
+Sitemap: https://ensawary.github.io/includes/sitemap
+Sitemap: https://ensawary.github.io/item/sitemap
+Sitemap: https://ensawary.github.io/src/sitemap
